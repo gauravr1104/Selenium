@@ -29,7 +29,7 @@ Selenium-main/
 
 ### 1. **Clone the repository**
 bash
-git clone https://github.com/your-username/Selenium-main.git
+git clone https://github.com/gauravr1104/Selenium-main.git
 cd Selenium-main/Web\ Scraping
 2. Install Requirements
 bash
